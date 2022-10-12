@@ -1,0 +1,30 @@
+PARTICIPANTS
+Milan Das                     7978168568    milandas63@gmail.com
+1.	Subash Moharana			  6370258435	subashchandramoharana739@gmail.com              moharanasubash123
+2.  Aparna Dash               9938060477    aparnadash224@gmail.com                         Aparna87
+
+
++------------+
+| 12-10-2022 |
++------------+
+	=	How to create a GitHub account?
+		https://github.com/login
+
+    =   Location of batch-2 repository
+        https://github.com/milandas63/IIG-batch2
+
+	=	Programs are written using an editor. The best editor around is MS-Word, but programs
+		are not written using MS-Word. MS-Word insert other information with the typed data
+		and that makes the programs irrelavant.
+
+	=	Programs are written using a pure text editor. The inbuilt text editor in Windows
+		operating system is Notepad.exe. The best text editor around are EditPlus and Notepad++.
+		Please install them in yout machine.
+
+    =   Install the following software:
+        1.  Notepad++
+        2.  EditPlus
+        3.  Java JDK v1.8
+        4.  Eclipse for JavaEE
+        5.  XAMPP
+
