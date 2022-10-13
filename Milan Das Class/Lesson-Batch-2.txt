@@ -1,25 +1,26 @@
 PARTICIPANTS
 Milan Das                     7978168568    milandas63@gmail.com
-1.	Subash Moharana			  6370258435	subashchandramoharana739@gmail.com              moharanasubash123
-2.  Aparna Dash               9938060477    aparnadash224@gmail.com                         Aparna87
+1.  Subash Moharana           6370258435    subashchandramoharana739@gmail.com          moharanasubash123
+2.  Aparna Dash               9938060477    aparnadash224@gmail.com                     Aparna87
+3.  Asim Hemram               7978121967    hemramprem@gmail.com                        hemr22
 
 
 +------------+
 | 12-10-2022 |
 +------------+
-	=	How to create a GitHub account?
-		https://github.com/login
+    =   How to create a GitHub account?
+        https://github.com/login
 
     =   Location of batch-2 repository
         https://github.com/milandas63/IIG-batch2
 
-	=	Programs are written using an editor. The best editor around is MS-Word, but programs
-		are not written using MS-Word. MS-Word insert other information with the typed data
-		and that makes the programs irrelavant.
+    =   Programs are written using an editor. The best editor around is MS-Word, but programs
+        are not written using MS-Word. MS-Word insert other information with the typed data
+        and that makes the programs irrelavant.
 
-	=	Programs are written using a pure text editor. The inbuilt text editor in Windows
-		operating system is Notepad.exe. The best text editor around are EditPlus and Notepad++.
-		Please install them in yout machine.
+    =   Programs are written using a pure text editor. The inbuilt text editor in Windows
+        operating system is Notepad.exe. The best text editor around are EditPlus and Notepad++.
+        Please install them in yout machine.
 
     =   Install the following software:
         1.  Notepad++
@@ -28,3 +29,39 @@ Milan Das                     7978168568    milandas63@gmail.com
         4.  Eclipse for JavaEE
         5.  XAMPP
 
++------------+
+| 13-10-2022 |
++------------+
+    FLOWCHART
+
+    =   What is a flowchart?
+        Flowchart is the diagramatic representation of the algorithm in a computer program.
+
+    =   How many figures are used to represent an algorithm?
+        =   There are around 6 figures used in a flowchart to represent an algorithm.
+            1.  Start and Stop
+            2.  Processing box
+            3.  Decision box
+            4.  Input and Output
+            5.  Connecting flowchart
+            6.  Arrows
+
+    =   Draw a flowchart to count numbers 1 to 50.
+
+    =   Draw a flowchart to sum all numbers between 1 to 100 and print.
+        1+2+3+4+5+6+.........100 = ?
+
+    =   Draw a flowchart to compute the power of a number?
+        x^y  =  3^4  =  3x3x3x3 = 81
+
+    =   Draw a flowchart to sum first 10 consecutive numbers divisible by 5.
+
+    CLASSWORK:
+
+    =   Draw a flowchart to sum first 50 even numbers.
+
+    =   Draw a flowchart to find the product of first 10 natural numbers.
+
+    =   Draw a flowchart to cross a road by a bot.
+
+    =   Draw a flowchart to check if a number taken from the user is prime?
