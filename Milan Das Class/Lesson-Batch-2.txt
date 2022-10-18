@@ -60,11 +60,8 @@ Milan Das                     7978168568    milandas63@gmail.com
     CLASSWORK:
 
     =   Draw a flowchart to sum first 50 even numbers.
-
     =   Draw a flowchart to find the product of first 10 natural numbers.
-
     =   Draw a flowchart to cross a road by a bot.
-
     =   Draw a flowchart to check if a number taken from the user is prime?
 
 
@@ -87,3 +84,11 @@ Milan Das                     7978168568    milandas63@gmail.com
     =   Draw a flowchart to sum first 10 numbers in the series:
         1, 3, 5, 11, 21,......      (n, n*2+1, n*2-1, ...
     =   Draw a flowchart to print all PRIME numbers between 1000 to 2000?
+
+
++------------+
+| 18-10-2022 |
++------------+
+    =   Draw a flowchart to print a piramid of astericks on the console screen?
+    =   Draw a flowchart to print first 10 numbers in the fibonacci series, 50, 51?
+    =   
