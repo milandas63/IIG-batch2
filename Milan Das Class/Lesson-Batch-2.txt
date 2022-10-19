@@ -71,6 +71,8 @@ Milan Das                     7978168568    milandas63@gmail.com
     JDK 1.8 download
     https://drive.google.com/file/d/1Gwf7nYJPjb-tnDeUAcC_xTxstk_KQrao/view?usp=sharing
     https://drive.google.com/file/d/1oYYTqfzYXOohRhMQlqO0e9M3qZQXzdv9/view?usp=sharing
+    Tomcat 8.5.75
+    https://drive.google.com/file/d/1YmFffIuvdkgfOBCapXPqim5YYjM_zOuY/view?usp=sharing
 
 
 +------------+
@@ -91,4 +93,4 @@ Milan Das                     7978168568    milandas63@gmail.com
 +------------+
     =   Draw a flowchart to print a piramid of astericks on the console screen?
     =   Draw a flowchart to print first 10 numbers in the fibonacci series, 50, 51?
-    =   
+    =   Draw a flowchart to sum first 10 numbers in the series 1, 4, 9, 16, 25, ......
