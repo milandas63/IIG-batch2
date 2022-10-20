@@ -93,4 +93,16 @@ Milan Das                     7978168568    milandas63@gmail.com
 +------------+
     =   Draw a flowchart to print a piramid of astericks on the console screen?
     =   Draw a flowchart to print first 10 numbers in the fibonacci series, 50, 51?
+
+
++------------+
+| 19-10-2022 |
++------------+
     =   Draw a flowchart to sum first 10 numbers in the series 1, 4, 9, 16, 25, ......
+
+
++------------+
+| 20-10-2022 |
++------------+
+    =   Draw a flowchart to swap the content of 2 string variables?
+    =   Draw a flowchart to swap the content of 2 numeric variables without using a third variable?
