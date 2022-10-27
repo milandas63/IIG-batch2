@@ -2,7 +2,24 @@ PARTICIPANTS
 Milan Das                     7978168568    milandas63@gmail.com
 1.  Subash Moharana           6370258435    subashchandramoharana739@gmail.com          moharanasubash123
 2.  Aparna Dash               9938060477    aparnadash224@gmail.com                     Aparna87
-3.  Asim Hemram               7978121967    hemramprem@gmail.com                        hemr22
+3.  Manashish Maharana        9090182704    manashishmaharana69@gmail.com               
+4.  Asim Hemram               7978121967    hemramprem@gmail.com                        hemr22
+
+GitHub URL: https://github.com/milandas63/IIG-batch2
+
+PLAN OF THE COURSE
+--------------------------------------------------------------------
+COURSES                             IDE
+--------------------------------------------------------------------
+1.  HTML                            Visual Code
+2.  CSS                                 "
+3.  JavaScript                          "
+4.  Java                            Eclipse
+5.  SQL                             Text
+6.  Bootstrap   -   CSS             Visual Code
+7.  JQuery      -   JavaScript          "
+8.  Spring      -   Java            Eclipse
+9.  SpringBoot  -   Java                "
 
 
 +------------+
@@ -64,7 +81,6 @@ Milan Das                     7978168568    milandas63@gmail.com
     =   Draw a flowchart to cross a road by a bot.
     =   Draw a flowchart to check if a number taken from the user is prime?
 
-
 +------------+
 | 14-10-2022 |
 +------------+
@@ -73,7 +89,6 @@ Milan Das                     7978168568    milandas63@gmail.com
     https://drive.google.com/file/d/1oYYTqfzYXOohRhMQlqO0e9M3qZQXzdv9/view?usp=sharing
     Tomcat 8.5.75
     https://drive.google.com/file/d/1YmFffIuvdkgfOBCapXPqim5YYjM_zOuY/view?usp=sharing
-
 
 +------------+
 | 17-10-2022 |
@@ -87,22 +102,72 @@ Milan Das                     7978168568    milandas63@gmail.com
         1, 3, 5, 11, 21,......      (n, n*2+1, n*2-1, ...
     =   Draw a flowchart to print all PRIME numbers between 1000 to 2000?
 
-
 +------------+
 | 18-10-2022 |
 +------------+
     =   Draw a flowchart to print a piramid of astericks on the console screen?
     =   Draw a flowchart to print first 10 numbers in the fibonacci series, 50, 51?
 
-
 +------------+
 | 19-10-2022 |
 +------------+
     =   Draw a flowchart to sum first 10 numbers in the series 1, 4, 9, 16, 25, ......
-
 
 +------------+
 | 20-10-2022 |
 +------------+
     =   Draw a flowchart to swap the content of 2 string variables?
     =   Draw a flowchart to swap the content of 2 numeric variables without using a third variable?
+
++------------+
+| 21-10-2022 |
++------------+
+    =   Flowchart revision
+
++------------+
+| 22-10-2022 |
++------------+
+    =   Examination
+
+
++------------+
+| 27-10-2022 |
++------------+
+    =   What is a programming language?
+        A programming langauge is human readable text formatted document. Every programming
+        language has its own set of keywords. The document is converted to machine language
+        in order to be executed by the machine.
+    =   What are the features of a programming language?
+        Most of the programming languages have a number of features:
+        >   It is executed in order of line numbers
+        >   Branching from one line to another line
+        >   Looping: executing one line or a set of lines repeatedly
+        >   Condition checking
+        >   Computation with numbers
+    =   What are types of programming languages?
+        There are 3 types of programming languages:
+        >   Passive language
+            The normal features of a programming language doesn't exist in a passive language.
+            It is ment for design purpose. The user is displayed with lots of information, which
+            is done using a passive language.
+            HTML is a passive language.
+        >   Active language
+        >   Dynamic language
+    =   HTML
+    =   HTML stands for Hyper Text Markup Language
+    =   HTML contains approximately 110 key words.
+    =   When the key words are embedded within angle brackets, it is called an ELEMENT or TAG.
+    =   HTML has a principle element, called <html>
+    =   Elements in HTML are nested with themself.
+    =   The <head> element and the <body> element are nested with <html> element.
+    =   There are 2 types of elements in HTML:
+        >   Self terminated element
+        >   Terminator required element
+    =   Elements may or may not have attributes. There are 3 types of attributes:
+        >   Standard attribute
+            Those attributes that are designed for the particular element
+        >   Common attribute
+            Those attributes which are applicable for all elements
+        >   Event attribute
+            Event attributes are only applicable to event elements
+
