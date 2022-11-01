@@ -1,9 +1,12 @@
 PARTICIPANTS
-Milan Das                     7978168568    milandas63@gmail.com
-1.  Subash Moharana           6370258435    subashchandramoharana739@gmail.com          moharanasubash123
-2.  Aparna Dash               9938060477    aparnadash224@gmail.com                     Aparna87
-3.  Manashish Maharana        9090182704    manashishmaharana69@gmail.com               
-4.  Asim Hemram               7978121967    hemramprem@gmail.com                        hemr22
+Milan Das                   7978168568    milandas63@gmail.com
+1.  Subash Moharana         6370258435    subashchandramoharana739@gmail.com          moharanasubash123
+2.  Aparna Dash             9938060477    aparnadash224@gmail.com                     Aparna87
+3.  Manashish Maharana      9090182704    manashishmaharana69@gmail.com               Manashish
+4.  Debiprasanna Sahoo      9938901127    debiprasanna.sahoo35@gmail.com              debiprasanna
+5.  Asis Kumar Sethi        7381455097    asishsethy9@gmail.com                       asishsethy22
+6.  Subhashree Behera       9853932304    subhabbsr2000@gmail.com                     shreebehera
+7.  Mousumi Behera          8917516487    monsoon.m88@gmail.com                       Mousumibehera89
 
 GitHub URL: https://github.com/milandas63/IIG-batch2
 
@@ -42,9 +45,10 @@ COURSES                             IDE
     =   Install the following software:
         1.  Notepad++
         2.  EditPlus
-        3.  Java JDK v1.8
-        4.  Eclipse for JavaEE
-        5.  XAMPP
+        3.  Visual Studio Code
+        4.  Java JDK v1.8
+        5.  Eclipse for JavaEE
+        6.  XAMPP
 
 +------------+
 | 13-10-2022 |
@@ -75,7 +79,6 @@ COURSES                             IDE
     =   Draw a flowchart to sum first 10 consecutive numbers divisible by 5.
 
     CLASSWORK:
-
     =   Draw a flowchart to sum first 50 even numbers.
     =   Draw a flowchart to find the product of first 10 natural numbers.
     =   Draw a flowchart to cross a road by a bot.
@@ -171,3 +174,70 @@ COURSES                             IDE
         >   Event attribute
             Event attributes are only applicable to event elements
 
++------------+
+| 28-10-2022 |
++------------+
+    =   HTML character design elements
+    =   HTML anchor
+
+
++------------+
+| 31-10-2022 |
++------------+
+    =   Number Data Representation
+        >   0-1: Binary Number System
+        >   0-7: Octal Number System
+        >   0-9: Decimal Number System
+        >   0-F: Hexadecimal Number System
+
+    =   0-255 are 256 combinations represented in Hexadecimal as 00 to FF
+    =   Table element contains a list of sub-elements
+        >   table
+        >   thead
+        >   tbody
+        >   tfoot
+        >   tr          New row
+        >   th          Table header
+        >   td          Table data
+        >   caption
+    
+    CLASSWORK:
+    =   Create a table with the following columns:
+        >   Serial Number
+        >   Name of the Country
+        >   Name of the Capital
+        >   Continent name
+        >   Population
+        >   Area in square kilometers
+
+
++------------+
+| 01-11-2022 |
++------------+
+    =   Opening of GitHub account
+    =   The <th> and the <td> elements have attributes in the name COLSPAN and ROWSPAN.
+    +-------+-------------------------------+-----------------------------------------------------------------------------------------------------------+
+    |       |                               |                                           POPULATION                                                      |
+    |       |                               |-----------------------------------------------------+-----------------------------------------------------|
+    |       |                               |                           URBAN                     |                           RURAL                     |
+    |       |                               |--------------------------+--------------------------+--------------------------+--------------------------|
+    |       |                               |           MALE           |           FEMALE         |          MALE            |           FEMALE         |
+    |       |                               |-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----|
+    |  SLNO | NAME OF THE DISTRICT          | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 |
+    |-------+-------------------------------+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----|
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+
+    CLASSWORK:
+    +-------+---------------------------+------------+-------------------------------------------------+
+    |       |                           |            |                      AGE GROUP                  |
+    |       |                           |            +-----------+------------+------------+-----------+
+    |       |                           |            | >5 & <=10 | >10 & <=15 | >15 & <=20 |    >20    |
+    |       |                           |            +-----+-----+------+-----+------+-----+-----+-----+
+    |  SLNO |  CANDIDATE NAME           |     DOB    |  M  |  F  |   M  |  F  |   M  |  F  |  M  |  F  |
+    +-------+---------------------------+------------+-----+-----+------+-----+------+-----+-----+-----+
