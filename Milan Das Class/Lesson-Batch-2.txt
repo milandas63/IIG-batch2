@@ -262,3 +262,51 @@ COURSES                             IDE
         +-------+-------+-------|   +   |
         |   0   |       =       |       |
         +-------+---------------+-------+
+
++------------+
+| 02-11-2022 |
++------------+
+    =   How to view an image?
+        use <img src=""> element
+
+    =   Fifth.html
+        Example of image within the anchor element.
+
++------------+
+| 03-11-2022 |
++------------+
+    =   TEST
+        Test-IIG-Batch2-002 (03-11-2022).docx
+
++------------+
+| 04-11-2022 |
++------------+
+    =   Table rowspan and colspan
+    =   HTML Form
+    =   What is a form?
+    =   Components of a Form:
+        >   Single line text component
+        >   Multiple line text component
+        >   Date component
+        >   Number component
+        >   Phone number
+        >   Email id
+        >   Radio button
+        >   Check box
+        >   Dropdown Combo box
+        >   List box
+        >   Image component
+
+
+    =   School Admission Application Form
+        >   Name of the candidate
+        >   Father's name
+        >   Mother's name
+        >   Date of Birth
+        >   Gender
+        >   Fathers's Occupation
+        >   Designation
+        >   Mobile Number
+        >   Aadhaar Card Number
+        >   Father's Qualification
+        >   Postal Address
