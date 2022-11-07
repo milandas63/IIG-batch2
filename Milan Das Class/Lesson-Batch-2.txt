@@ -297,7 +297,6 @@ COURSES                             IDE
         >   List box
         >   Image component
 
-
     =   School Admission Application Form
         >   Name of the candidate
         >   Father's name
@@ -310,3 +309,33 @@ COURSES                             IDE
         >   Aadhaar Card Number
         >   Father's Qualification
         >   Postal Address
+
++------------+
+| 07-11-2022 |
++------------+
+    =   What is CSS?
+        CSS stands for Cascading Sytle Sheet
+        The CSS provides a number of properties. The coder has to select the permitted values
+        of the properties. CSS decorates the HTML page.
+
+        What is CSS? CSS is the language for describing the presentation of Web pages, 
+        including colors, layout, and fonts. It allows one to adapt the presentation to
+        different types of devices, such as large screens, small screens, or printers. 
+        CSS is independent of HTML and can be used with any XML-based markup language.
+
+    =   How many types of CSS are there?
+        There are 3 types of CSS:
+        >   Inline CSS
+            The CSS is provided in the style attribute of the element. Pairs of property:value;
+            is attached in the style attribute.
+        >   Internal CSS
+            The internal CSS are provided in the <style> element. The <style> element is
+            nested within the <head>...</head> element.
+        >   External CSS
+            The external CSS is written in a separate file with name ending with .css
+            The same file was linked with the HTML using the <link> element. The <link> element
+            is placed within the <head> element.
+
+    =   CLASSWORK:
+        Create a page that will display the temperature of 10 top cities in India.
+        Use CSS to design the page good looking.
