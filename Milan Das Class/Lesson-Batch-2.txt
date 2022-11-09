@@ -339,3 +339,11 @@ COURSES                             IDE
     =   CLASSWORK:
         Create a page that will display the temperature of 10 top cities in India.
         Use CSS to design the page good looking.
+
+
++------------+
+| 09-11-2022 |
++------------+
+    =   Bootstrap Framework
+        >   To download: https://getbootstrap.com/docs/4.4/getting-started/introduction/
+        >   CSS class help: https://getbootstrap.com/docs/4.0/getting-started/introduction/
