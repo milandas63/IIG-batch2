@@ -1,0 +1,27 @@
+<html>
+    <body>
+        <script type="text/javascript">
+            var space = 50;
+            var star = 1;
+            document.writeln("<tt>");
+            for(line=1; line<=20; line=line+1) {
+                for(i=0; i<space; i=i+1) {
+                    document.write("&nbsp;")
+                }
+                for(i=0; i<star; i++) {
+                    document.write("*");
+                }
+                document.writeln("<br>");
+                if(line<10) {
+                    space = space-1;
+                    star = star+2;
+                } else {
+                    space = space+1;
+                    star = star-2;
+                }
+                
+            }
+            document.writeln("</tt>");
+        </script>
+    </body>
+</html>
