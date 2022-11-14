@@ -1,0 +1,24 @@
+<html>
+    <head>
+    <title> Prime Number</title>
+
+    </head>
+    <body>
+        <script>
+            // Print all prime number between 1000 to 2000
+            var asish;
+            for(i=1000; i<=2000; i++) {
+                asish=true;
+                for(j=2; j<i; j++){
+                    if(i%j==0){
+                        asish=false;
+                        break;
+                    }
+                }
+                if(asish==true) {
+                    document.write(i + "  ");
+                }
+            }
+        </script>
+    </body>
+</html>
