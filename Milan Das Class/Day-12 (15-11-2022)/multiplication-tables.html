@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Multiplication Tables</title>
+        <script>
+            function tables() {
+                var startno = parseInt(document.getElementById("start").value);
+                var endno = parseInt(document.getElementById("end").value);
+                var count = 0;
+
+                document.writeln("<body>");
+                document.writeln("<table border='1'>");
+                document.writeln("<tr>");
+                for(var i=startno; i<=endno; i++) {
+                    document.writeln("<td>");
+                    document.writeln("<table>");
+                    for(var j=1; j<=10; j++) {
+                        document.writeln("<tr>");
+                        document.writeln("<td align='right' width='25'>"+i+"</td>");
+                        document.writeln("<td align='center'>x</td>");
+                        document.writeln("<td align='right' width='15'>"+j+"</td>");
+                        document.writeln("<td align='center'>=</td>");
+                        document.writeln("<td align='right' width='30'>"+(i*j)+"</td>");
+                        document.writeln("</tr>");
+                    }
+                    document.writeln("</table>");
+                    document.writeln("</td>");
+                    count = count+1;
+                    if(count>=10) {
+                        document.writeln("</tr>");
+                        document.writeln("<tr>");
+                        count = 0;
+                    }
+                }
+                document.writeln("</tr>");
+                document.writeln("</table>");
+                document.writeln("</body>");
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Multiplication Tables</h1>
+        <br><hr><br>
+        <table>
+            <tr>
+                <td>Start Number: </td>
+                <td><input type="text" name="start" id="start" /></td>
+            </tr>
+            <tr>
+                <td>End Number: </td>
+                <td><input type="text" name="end" id="end"></td>
+            </tr>
+        </table>
+        <br><br>
+        <input type="button" onclick="tables();"  value=" Compute " />
+    </body>
+</html>
