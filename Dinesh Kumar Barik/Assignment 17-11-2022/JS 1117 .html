@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title> Count the Vowels </title>
+        <H1>Numbers of vowels</H1>
+        <script>
+            function vowels() {
+                var textobj = document.getElementById("str");
+                var value = textobj.value;
+                var count = 0;
+                var each;
+                const vowelbox = "AEIOUaeiou";
+
+                for(var i=0; i<value.length; i++) {
+                    each = value.charAt(i);
+                    for(var j=0; j<vowelbox.length; j++) {
+                        if(each===vowelbox.charAt(j)) {
+                            count++;
+                            break;
+                        }
+                    }
+                }
+                var numberofvowels = document.getElementById("vow");
+                numberofvowels.value = count;
+            }
+        </script>
+    </head>
+
+<body>
+    <br><hr><br>
+    <label> Give a String </label>
+    <input type="text" name="str" id="str" size="50"><br><br>
+
+    <label>No of vowels</label>
+    <input type="int" name="vow" id="vow" size="50"><br><br>
+
+    <input type="button" onclick="vowels();" value=" number of vowels">
+</body>
+</html>
