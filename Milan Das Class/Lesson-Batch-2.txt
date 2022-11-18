@@ -7,6 +7,9 @@ Milan Das                   7978168568    milandas63@gmail.com
 5.  Asis Kumar Sethi        7381455097    asishsethy9@gmail.com                       asishsethy22
 6.  Subhashree Behera       9853932304    subhabbsr2000@gmail.com                     shreebehera
 7.  Mousumi Behera          8917516487    monsoon.m88@gmail.com                       Mousumibehera89
+8.  Dinesh Kumar Barik      8249705165    dineshkalyani13@gmail.com                   KumarDinesh-ctrl
+9.  Nitesh Kumar Barik      6371796970    rickybarik550@gmail.com                     NiteshkumarBarik
+10. Pritiarpan Mohanty
 
 GitHub URL: https://github.com/milandas63/IIG-batch2
 
@@ -438,3 +441,91 @@ COURSES                             IDE
 
     ASSIGNMENT:
     =   Write a program to print all MULTIPLICATION TABLES between 2 and 25.
+
+
++------------+
+| 15-11-2022 |
++------------+
+    =   Albetical Sorting
+        A               1
+        AA              11
+        AAA             100
+        B               2
+        BB              22
+        BBBB            2222
+        C               3
+        CCC             333
+
+    =   Numerical Sorting
+        A               1
+        B               2
+        C               3
+        AA              11
+        BB              22
+        AAA             100
+        CCC             333
+        BBBB            2222
+
+        "2"             2
+
++------------+
+| 16-11-2022 |
++------------+
+    =   What is DOM?
+        DOM stands for Document Object Model.
+        DOM is a tree like representation of the HTML script.
+        Every node within the DOM tree is an object. Please check the objects in the
+        JavaScript documentaiton.
+
+                                    HTML
+                                     |
+                        +------------+---------------+
+                        |                            |
+                       HEAD                        BODY
+                 +------+-------+             +------+-------+
+                 |      |       |             |      |       |
+               TITLE  SCRIPT  META            H1   TABLE     A
+                                                     |
+                                               +-----+------+
+                                               |     |      |
+                                              TR   TBODY   THEAD
+
+    =   What is FRAMESET element?
+        The FRAMESET element divides the screen into different rows and columns.
+
+        +----------------+--------------------------------------------+
+        | POLITICAL PART |                                            |
+        | = BJP          |                                            |
+        | = INC          |                                            |
+        | = AAP          |                                            |
+        |                |                                            |
+        |                |                                            |
+        |----------------|                                            |
+        | = Narendra Modi|                                            |
+        | = Amit Saha    |                                            |
+        | =              |                                            |
+        |                |                                            |
+        |                |                                            |
+        |                |                                            |
+        |                |                                            |
+        |                |                                            |
+        +----------------+--------------------------------------------+
+
++------------+
+| 17-11-2022 |
++------------+
+    =   Write a program in Javascript to revese a string?
+        Original text: Quick Brown Fox Jumps Over The Lazy Dog
+        Reverse text:  goD yzaL ehT revO spmuJ xoF nworB kciuQ
+
+    =   Write a program in Javascript to count the number of vowels in a given string?
+        Quick Brown Fox Jumps Over The Lazy Dog
+
+        var vowels = "AEIOUaeiou";
+
++------------+
+| 18-11-2022 |
++------------+
+    =   Write a program to count the number of vowels in a given string?
+    =   Write a program to count of number of occurances of each character within a string?
+    =   Reverse horizontally the content of a table?
