@@ -1,0 +1,112 @@
+<html>
+    <head>
+        <title>Reverse a Table</title>
+        <script>
+            function reverseTable() {
+                var tableObj = document.getElementById('table');
+                document.writeln("<table border='1' cellspacing='0' cellpadding='5'>");
+                document.writeln("<tr>");
+                for(var i=0; i<tableObj.rows[0].cells.length; i++) {
+                    document.writeln("<td>"+tableObj.rows[0].cells[i].innerHTML+"</td>");
+                }
+                document.writeln("</tr>");
+
+                for(var i=tableObj.rows.length-1; i>=1; i--) {
+                    document.writeln("<tr>");
+                    for(var j=0; j<tableObj.rows[i].cells.length; j++) {
+                        document.writeln("<td style='color:blue;'>"+tableObj.rows[i].cells[j].innerHTML+"</td>");
+                    }
+                    document.writeln("</tr>");
+                }
+                document.writeln("</table>");
+
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Reverse Table</h1>
+        <hr><br>
+        <table border="1" cellspacing="0" cellpadding="5" id="table">
+            <tr>
+                <td>Slno</td>
+                <td>Name of the Candidate</td>
+                <td>Mobile No.</td>
+                <td>Email id</td>
+                <td>githug id</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Subash Moharana</td>
+                <td>6370258435</td>
+                <td>subashchandramoharana739@gmail.com</td>
+                <td>moharanasubash123</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Aparna Dash</td>
+                <td>9938060477</td>
+                <td>aparnadash224@gmail.com</td>
+                <td>Aparna87</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Manashish Maharana</td>
+                <td>9090182704</td>
+                <td>manashishmaharana69@gmail.com</td>
+                <td>Manashish</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Debiprasanna Sahoo</td>
+                <td>9938901127</td>
+                <td>debiprasanna.sahoo35@gmail.com</td>
+                <td>debiprasanna</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Asis Kumar Sethi</td>
+                <td>7381455097</td>
+                <td>asishsethy9@gmail.com</td>
+                <td>asishsethy22</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Subhashree Behera</td>
+                <td>9853932304</td>
+                <td>subhabbsr2000@gmail.com</td>
+                <td>shreebehera</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Mousumi Behera</td>
+                <td>8917516487</td>
+                <td>monsoon.m88@gmail.com</td>
+                <td>Mousumibehera89</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Dinesh Kumar Barik</td>
+                <td>8249705165</td>
+                <td>dineshkalyani13@gmail.com</td>
+                <td>KumarDinesh-ctrl</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Nitesh Kumar Barik</td>
+                <td>6371796970</td>
+                <td>rickybarik550@gmail.com</td>
+                <td>NiteshkumarBarik</td>
+            </tr>
+            <tr>
+                <td>10</td>
+                <td>Pritiarpan Mohanty</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>
+        <br><br>
+        <input type="button" onclick="reverseTable();" value="Reverse Table" />
+        <br>
+    </body>
+</html>
