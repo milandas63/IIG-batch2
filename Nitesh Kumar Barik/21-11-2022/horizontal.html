@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>reverse table</title>
+        <script>
+            function Reverse() {
+                var nitin_obj = document.getElementById("nitin");
+                document.writeln("<table border='1'>");
+                document.writeln("<tr>");
+                
+                  for(var row = 0; row<nitin_obj.rows.length; row++) {
+                    document.writeln("</tr>");
+                    for(var col =nitin_obj.rows[row].cells.length-1; col>=0; col--)
+                    { 
+                        document.writeln("<td>"+nitin_obj.rows[row].cells[col].innerHTML+"</td>");
+                        
+                    }
+                    document.writeln("</tr>");    
+                }
+                document.writeln("</table>");
+            }
+
+        </script>
+    </head>
+    <body>
+        <h1> original table</h1>
+        <hr><br><hr>
+        <table id="nitin" border="1" cellspacing="5"> 
+            <tr>
+                <td>no.</td>
+                <td>country</td>
+                <Td>capital</Td>
+                <td>area</td>
+                <td>population</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <Td>India</Td>
+                <td>Delhi</td>
+                <td>3.287 million km</td>
+                <td>139.34 crores</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>china</td>
+                <Td>beijing</Td>
+                <td>9.597 million km </td>
+                <td>141 crores </td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>russia</td>
+                <Td>moscow</Td>
+                <td>17.1 million km</td>
+                <td>14.34 crores</td>
+            </tr>
+
+                
+
+
+        </table><br><br>
+        <input type="button" onclick="Reverse();" value="reverse" />
+        <br><hr><br>
+
+        
+        
+    </body>
+</html>
