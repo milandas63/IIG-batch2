@@ -529,3 +529,18 @@ COURSES                             IDE
     =   Write a program to count the number of vowels in a given string?
     =   Write a program to count of number of occurances of each character within a string?
     =   Reverse horizontally the content of a table?
+
+
++------------+
+| 21-11-2022 |
++------------+
+    =   Write a function that takes a list of strings an prints them, one per line, 
+        in a rectangular frame.
+        For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
+            *********
+            * Hello *
+            * World *
+            * in    *
+            * a     *
+            * frame *
+            *********
