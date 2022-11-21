@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Array Introduction</title>
+    </head>
+    <body>
+        <script>
+            var alpha = new Array(26);
+            for(var i=65; i<=90; i++) {
+                alpha[i-65] = String.fromCharCode(i);
+            }
+            for(var i=0; i<26; i++) {
+                document.write(alpha[i]+" ");
+            }
+
+            //var text = "Quick Brown Fox Jumps Over The Lazy Dog";
+            var text = "This is a batch learning UI Development";
+            var count = new Array(26);
+            for(var i=0; i<26; i++) count[i] = 0;
+            //count = [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0];
+
+            text = text.toUpperCase();
+            var each;
+            var code;
+            for(var i=0; i<text.length; i++) {
+                code = text.charCodeAt(i);
+                count[code-65]++;
+            }
+            document.writeln("<br>");
+            for(var i=0; i<26; i++) {
+                if(count[i]!=0) {
+                    document.writeln(String.fromCharCode(i+65) + " = " + count[i] + "<br>");
+                }
+            }
+
+            var names = ["Mousumi", "Ashish", "Debiprasanna", "Manasish", "Dinesh", "Asim", "Nitesh", "Subash", "Rakesh", "Asutosh", "Pritiaryan", "Aparna","Milan"];
+            document.writeln("******************<br>");
+            for(var i=0; i<names.length; i++) {
+                document.writeln("*&nbsp;&nbsp;&nbsp;&nbsp;" + names[i]+"<br>");
+            }
+            document.writeln("******************<br>");
+            </script>
+    </body>
+</html>

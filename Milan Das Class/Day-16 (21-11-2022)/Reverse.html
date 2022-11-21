@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Reverse a Table</title>
+        <script>
+            function reverse() {
+                var tableObj = document.getElementById("rtable");
+                document.writeln("<table  border='1' cellspacing='5' cellpadding='5'>");
+                document.writeln("<caption>Reverse Table</caption>");
+                for(var row=0; row<tableObj.rows.length; row++) {
+                    document.writeln("<tr>");
+                    for(var col=tableObj.rows[row].cells.length-1; col>=0; col--) {
+                        document.writeln("<td>"+tableObj.rows[row].cells[col].innerHTML+"</td>");
+                    }
+                    document.writeln("</tr>");
+                }
+                document.writeln("</table>");
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Original Table</h1>
+        <hr><br>
+        <table border="1" cellspacing="5" cellpadding="5" id="rtable">
+            <tr>
+                <td>No.</td>
+                <td>Country Name</td>
+                <td>Capital</td>
+                <td>Population</td>
+                <td>Area (KM)</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>India</td>
+                <td>New Delhi</td>
+                <td>139 crore</td>
+                <td>3.287 million sqr. KM</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Pakistan</td>
+                <td>Karachi</td>
+                <td>22 crore</td>
+                <td>796095 sqr. KM</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Srilanka</td>
+                <td>Colombo</td>
+                <td>22 crore</td>
+                <td>796095 sqr. KM</td>
+            </tr>
+        </table>
+        <br><br>
+        <input type="button" onclick="reverse();" value=" Reverse " />
+    </body>
+</html>
