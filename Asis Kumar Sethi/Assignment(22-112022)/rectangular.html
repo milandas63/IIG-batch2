@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Array Introduction</title>
+        <script>
+            function padRight(word, len) {
+                var buffer = word;
+                for(var i=word.length; i<len; i++) buffer = buffer + "&nbsp;";
+                return buffer;
+            }
+        </script>
+    </head>
+    <body>
+        <script>
+            document.writeln("<tt>");
+            var names = ["hello", "world", "the", "annonymus", "frame" ];
+            var longest = 0;
+            for(var i=0; i<names.length; i++) {
+                if(longest<names[i].length) longest = names[i].length;
+            }
+            var fullwidth = 8 + longest;
+
+            for(var i=0; i<fullwidth; i++) document.write("*");
+            document.writeln("<br>");
+            for(var i=0; i<names.length; i++) {
+                document.writeln("*&nbsp;&nbsp;&nbsp;" + padRight(names[i],longest)+"&nbsp;&nbsp;&nbsp;*<br>");
+            }
+            for(var i=0; i<fullwidth; i++) document.write("*");
+            document.writeln("<br>");
+            document.writeln("</tt>");
+        </script>
+    </body>
+</html>
