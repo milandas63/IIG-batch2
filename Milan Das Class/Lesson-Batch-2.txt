@@ -544,3 +544,12 @@ COURSES                             IDE
             * a     *
             * frame *
             *********
+
++------------+
+| 22-11-2022 |
++------------+
+    =   Extract "Abdul" from "A P J Abdul Kalam" using the appropriate 
+        javaScript string function.
+
+    =   Explore String object in detail.
+
