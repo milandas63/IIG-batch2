@@ -1,0 +1,562 @@
+PARTICIPANTS
+Milan Das                   7978168568    milandas63@gmail.com
+1.  Subash Moharana         6370258435    subashchandramoharana739@gmail.com          moharanasubash123
+2.  Aparna Dash             9938060477    aparnadash224@gmail.com                     Aparna87
+3.  Manashish Maharana      9090182704    manashishmaharana69@gmail.com               Manashish
+4.  Debiprasanna Sahoo      9938901127    debiprasanna.sahoo35@gmail.com              debiprasanna
+5.  Asis Kumar Sethi        7381455097    asishsethy9@gmail.com                       asishsethy22
+6.  Subhashree Behera       9853932304    subhabbsr2000@gmail.com                     shreebehera
+7.  Mousumi Behera          8917516487    monsoon.m88@gmail.com                       Mousumibehera89
+8.  Dinesh Kumar Barik      8249705165    dineshkalyani13@gmail.com                   KumarDinesh-ctrl
+9.  Nitesh Kumar Barik      6371796970    rickybarik550@gmail.com                     NiteshkumarBarik
+10. Pritiarpan Mohanty
+
+GitHub URL: https://github.com/milandas63/IIG-batch2
+
+PLAN OF THE COURSE
+--------------------------------------------------------------------
+COURSES                             IDE
+--------------------------------------------------------------------
+1.  HTML                            Visual Code
+2.  CSS                                 "
+3.  JavaScript                          "
+4.  Java                            Eclipse
+5.  SQL                             Text
+6.  Bootstrap   -   CSS             Visual Code
+7.  JQuery      -   JavaScript          "
+8.  Spring      -   Java            Eclipse
+9.  SpringBoot  -   Java                "
+
+
++------------+
+| 12-10-2022 |
++------------+
+    =   How to create a GitHub account?
+        https://github.com/login
+
+    =   Location of batch-2 repository
+        https://github.com/milandas63/IIG-batch2
+
+    =   Programs are written using an editor. The best editor around is MS-Word, but programs
+        are not written using MS-Word. MS-Word insert other information with the typed data
+        and that makes the programs irrelavant.
+
+    =   Programs are written using a pure text editor. The inbuilt text editor in Windows
+        operating system is Notepad.exe. The best text editor around are EditPlus and Notepad++.
+        Please install them in yout machine.
+
+    =   Install the following software:
+        1.  Notepad++
+        2.  EditPlus
+        3.  Visual Studio Code
+        4.  Java JDK v1.8
+        5.  Eclipse for JavaEE
+        6.  XAMPP
+
++------------+
+| 13-10-2022 |
++------------+
+    FLOWCHART
+    http://auditor101.com/flow-chart-examples-questions-answers/
+
+    =   What is a flowchart?
+        Flowchart is the diagramatic representation of the algorithm in a computer program.
+
+    =   How many figures are used to represent an algorithm?
+        =   There are around 6 figures used in a flowchart to represent an algorithm.
+            1.  Start and Stop
+            2.  Processing box
+            3.  Decision box
+            4.  Input and Output
+            5.  Connecting flowchart
+            6.  Arrows
+
+    =   Draw a flowchart to count numbers 1 to 50.
+
+    =   Draw a flowchart to sum all numbers between 1 to 100 and print.
+        1+2+3+4+5+6+.........100 = ?
+
+    =   Draw a flowchart to compute the power of a number?
+        x^y  =  3^4  =  3x3x3x3 = 81
+
+    =   Draw a flowchart to sum first 10 consecutive numbers divisible by 5.
+
+    CLASSWORK:
+    =   Draw a flowchart to sum first 50 even numbers.
+    =   Draw a flowchart to find the product of first 10 natural numbers.
+    =   Draw a flowchart to cross a road by a bot.
+    =   Draw a flowchart to check if a number taken from the user is prime?
+
++------------+
+| 14-10-2022 |
++------------+
+    JDK 1.8 download
+    https://drive.google.com/file/d/1Gwf7nYJPjb-tnDeUAcC_xTxstk_KQrao/view?usp=sharing
+    https://drive.google.com/file/d/1oYYTqfzYXOohRhMQlqO0e9M3qZQXzdv9/view?usp=sharing
+    Tomcat 8.5.75
+    https://drive.google.com/file/d/1YmFffIuvdkgfOBCapXPqim5YYjM_zOuY/view?usp=sharing
+
++------------+
+| 17-10-2022 |
++------------+
+    =   Draw a flowchart to sum first 20 odd numbers?
+    =   Draw a flowchart to find the largest number between A, B, & C?
+    =   Draw a flowchart to sum the first 20 numbers multiples of three or five starting from 25
+        e.g. 25 + 27 + 30 + 33 + 35 + 36 + 39 + 40 + 42 + 45 + 48 + 50 + ....
+    =   Draw a flowchart to find the smallest number between n numbers?
+    =   Draw a flowchart to sum first 10 numbers in the series:
+        1, 3, 5, 11, 21,......      (n, n*2+1, n*2-1, ...
+    =   Draw a flowchart to print all PRIME numbers between 1000 to 2000?
+
++------------+
+| 18-10-2022 |
++------------+
+    =   Draw a flowchart to print a piramid of astericks on the console screen?
+    =   Draw a flowchart to print first 10 numbers in the fibonacci series, 50, 51?
+
++------------+
+| 19-10-2022 |
++------------+
+    =   Draw a flowchart to sum first 10 numbers in the series 1, 4, 9, 16, 25, ......
+
++------------+
+| 20-10-2022 |
++------------+
+    =   Draw a flowchart to swap the content of 2 string variables?
+    =   Draw a flowchart to swap the content of 2 numeric variables without using a third variable?
+
++------------+
+| 21-10-2022 |
++------------+
+    =   Flowchart revision
+
++------------+
+| 22-10-2022 |
++------------+
+    =   Examination
+
+
++------------+
+| 27-10-2022 |
++------------+
+    =   What is a programming language?
+        A programming langauge is human readable text formatted document. Every programming
+        language has its own set of keywords. The document is converted to machine language
+        in order to be executed by the machine.
+    =   What are the features of a programming language?
+        Most of the programming languages have a number of features:
+        >   It is executed in order of line numbers
+        >   Branching from one line to another line
+        >   Looping: executing one line or a set of lines repeatedly
+        >   Condition checking
+        >   Computation with numbers
+    =   What are types of programming languages?
+        There are 3 types of programming languages:
+        >   Passive language
+            The normal features of a programming language doesn't exist in a passive language.
+            It is ment for design purpose. The user is displayed with lots of information, which
+            is done using a passive language.
+            HTML is a passive language.
+        >   Active language
+        >   Dynamic language
+    =   HTML
+    =   HTML stands for Hyper Text Markup Language
+    =   HTML contains approximately 110 key words.
+    =   When the key words are embedded within angle brackets, it is called an ELEMENT or TAG.
+    =   HTML has a principle element, called <html>
+    =   Elements in HTML are nested with themself.
+    =   The <head> element and the <body> element are nested with <html> element.
+    =   There are 2 types of elements in HTML:
+        >   Self terminated element
+        >   Terminator required element
+    =   Elements may or may not have attributes. There are 3 types of attributes:
+        >   Standard attribute
+            Those attributes that are designed for the particular element
+        >   Common attribute
+            Those attributes which are applicable for all elements
+        >   Event attribute
+            Event attributes are only applicable to event elements
+
++------------+
+| 28-10-2022 |
++------------+
+    =   HTML character design elements
+    =   HTML anchor
+
+
++------------+
+| 31-10-2022 |
++------------+
+    =   Number Data Representation
+        >   0-1: Binary Number System
+        >   0-7: Octal Number System
+        >   0-9: Decimal Number System
+        >   0-F: Hexadecimal Number System
+
+    =   0-255 are 256 combinations represented in Hexadecimal as 00 to FF
+    =   Table element contains a list of sub-elements
+        >   table
+        >   thead
+        >   tbody
+        >   tfoot
+        >   tr          New row
+        >   th          Table header
+        >   td          Table data
+        >   caption
+
+    CLASSWORK:
+    =   Create a table with the following columns:
+        >   Serial Number
+        >   Name of the Country
+        >   Name of the Capital
+        >   Continent name
+        >   Population
+        >   Area in square kilometers
+
+
++------------+
+| 01-11-2022 |
++------------+
+    =   Opening of GitHub account
+    =   The <th> and the <td> elements have attributes in the name COLSPAN and ROWSPAN.
+    +-------+-------------------------------+-----------------------------------------------------------------------------------------------------------+
+    |       |                               |                                           POPULATION                                                      |
+    |       |                               |-----------------------------------------------------+-----------------------------------------------------|
+    |       |                               |                           URBAN                     |                           RURAL                     |
+    |       |                               |--------------------------+--------------------------+--------------------------+--------------------------|
+    |       |                               |           MALE           |           FEMALE         |          MALE            |           FEMALE         |
+    |       |                               |-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----|
+    |  SLNO | NAME OF THE DISTRICT          | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 | <5  | 6-15 | 16-25 | >25 |
+    |-------+-------------------------------+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----+-----+------+-------+-----|
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+    |       |                               |     |      |       |     |     |      |       |     |     |      |       |     |     |      |       |     |
+
+    CLASSWORK-(1):
+    +-------+---------------------------+------------+-------------------------------------------------+
+    |       |                           |            |                      AGE GROUP                  |
+    |       |                           |            +-----------+------------+------------+-----------+
+    |       |                           |            | >5 & <=10 | >10 & <=15 | >15 & <=20 |    >20    |
+    |       |                           |            +-----+-----+------+-----+------+-----+-----+-----+
+    |  SLNO |  CANDIDATE NAME           |     DOB    |  M  |  F  |   M  |  F  |   M  |  F  |  M  |  F  |
+    +-------+---------------------------+------------+-----+-----+------+-----+------+-----+-----+-----+
+
+
+
+    ASSIGNMENT-2 (01-11-2022)
+    1.  Write a HTML program to display a calculator as given below:
+
+        +-------------------------------+
+        |                             0 |
+        +-------+-------+-------+-------+
+        |  MR   |   M-  |  M+   |  OFF  |
+        +-------+-------+-------+-------+
+        |  AC   |   CE  |   √   |   x   |
+        +-------+-------+-------+-------+
+        |   7   |   8   |   9   |   /   |
+        +-------+-------+-------+-------+
+        |   4   |   5   |   6   |   -   |
+        +-------+-------+-------+-------+
+        |   1   |   2   |   3   |       |
+        +-------+-------+-------|   +   |
+        |   0   |       =       |       |
+        +-------+---------------+-------+
+
++------------+
+| 02-11-2022 |
++------------+
+    =   How to view an image?
+        use <img src=""> element
+
+    =   Fifth.html
+        Example of image within the anchor element.
+
++------------+
+| 03-11-2022 |
++------------+
+    =   TEST
+        Test-IIG-Batch2-002 (03-11-2022).docx
+
++------------+
+| 04-11-2022 |
++------------+
+    =   Table rowspan and colspan
+    =   HTML Form
+    =   What is a form?
+    =   Components of a Form:
+        >   Single line text component
+        >   Multiple line text component
+        >   Date component
+        >   Number component
+        >   Phone number
+        >   Email id
+        >   Radio button
+        >   Check box
+        >   Dropdown Combo box
+        >   List box
+        >   Image component
+
+    =   School Admission Application Form
+        >   Name of the candidate
+        >   Father's name
+        >   Mother's name
+        >   Date of Birth
+        >   Gender
+        >   Fathers's Occupation
+        >   Designation
+        >   Mobile Number
+        >   Aadhaar Card Number
+        >   Father's Qualification
+        >   Postal Address
+
++------------+
+| 07-11-2022 |
++------------+
+    =   What is CSS?
+        CSS stands for Cascading Sytle Sheet
+        The CSS provides a number of properties. The coder has to select the permitted values
+        of the properties. CSS decorates the HTML page.
+
+        What is CSS? CSS is the language for describing the presentation of Web pages,
+        including colors, layout, and fonts. It allows one to adapt the presentation to
+        different types of devices, such as large screens, small screens, or printers.
+        CSS is independent of HTML and can be used with any XML-based markup language.
+
+    =   How many types of CSS are there?
+        There are 3 types of CSS:
+        >   Inline CSS
+            The CSS is provided in the style attribute of the element. Pairs of property:value;
+            is attached in the style attribute.
+        >   Internal CSS
+            The internal CSS are provided in the <style> element. The <style> element is
+            nested within the <head>...</head> element.
+        >   External CSS
+            The external CSS is written in a separate file with name ending with .css
+            The same file was linked with the HTML using the <link> element. The <link> element
+            is placed within the <head> element.
+
+    =   CLASSWORK:
+        Create a page that will display the temperature of 10 top cities in India.
+        Use CSS to design the page good looking.
+
+
++------------+
+| 09-11-2022 |
++------------+
+    =   Bootstrap Framework
+        >   To download: https://getbootstrap.com/docs/4.4/getting-started/introduction/
+        >   CSS class help: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+
++------------+
+| 10-11-2022 |
++------------+
+    =   What is JavaScript?
+        >   JavaScript is a programming language used within HTML script
+        >   JavaScript is a scripting language
+        >   JavaScript was designed to add interactivity to HTML pages
+        >   A scripting language is a lightweight programming language
+        >   JavaScript is usually embedded directly into HTML pages
+        >   JavaScript is an interpreted language (means that scripts execute without
+            preliminary compilation)
+        >   Everyone can use JavaScript without purchasing a license
+        >   JavaScript is created by a company in the name Netscape Navigator
+        >   JavaScript is written within the <script> element
+
+    =   What is the print command in JavaScript?
+            document.writeln("asdfasdf");
+
+    =   What is a looping command in JavaScript?
+            There are several looping commands like "for", "while" and "do"
+            The syntax of for command:
+                for([initializer], [condition], [increment]) { }
+
+    JAVASCRIPT CLASSWORK:
+        a)  Draw a triangle of asterisks?
+        b)  Draw a diamond style of asterisks?
+        c)  Draw a triangle of palindrome numbers?
+        d)  Draw a outline of a triangle using stars?
+        e)  Draw a triangle of palindrome alphabets?
+        f)  Draw a triangle using digits from 0 to 9 for each line
+        g)  Draw the figure shown in number g
+        h)  Draw the figure shown in number h
+        i)  Draw a figure with two triangle meeting upside down using astericks
+        j)  Draw a swastik using * character
+
+          a)      *             b)      *           c)      1            d)       *
+                 ***                   ***                 121                   * *
+                *****                 *****               12321                 *   *
+               *******               *******             1234321               *     *
+              *********             *********           123454321             *       *
+             ***********           ***********         12345654321           *         *
+            *************         *************       1234567654321         *           *
+           ***************       ***************     123456787654321       *             *
+          *****************     *****************   12345678987654321     *               *
+                                 ***************                         *******************
+                                  *************
+                                   ***********
+                                    *********
+                                     *******
+                                      *****
+                                       ***
+                                        *
+
+          e)       a            f)       0         g) 1               1  h) 12345678987654321
+                  aba                   111           12             21     12345678 87654321
+                 abcba                 22222          123           321     1234567   7654321
+                abcdcba               3333333         1234         4321     123456     654321
+               abcdedcba             444444444        12345       54321     12345       54321
+              abcdefedcba           55555555555       123456     654321     1234         4321
+             abcdefgfedcba         6666666666666      1234567   7654321     123           321
+            abcdefghgfedcba       777777777777777     12345678 87654321     12             21
+           abcdefghihgfedcba     88888888888888888    12345678987654321     1               1
+          abcdefghijihgfedcba   9999999999999999999
+
+        i)*****************   j)* * * * * *         *
+           ***************                *         *
+            *************                 *         *
+             ***********                  *         *
+              *********                   *         *
+               *******          * * * * * * * * * * *
+                *****           *         *
+                 ***            *         *
+                  *             *         *
+                 ***            *         *
+                *****           *         * * * * * *
+               *******
+              *********
+             ***********
+            *************
+           ***************
+          *****************
+
++------------+
+| 14-11-2022 |
++------------+
+    =   Write a program to print all PRIME numbers between 1000 and 2000.
+
+    ASSIGNMENT:
+    =   Write a program to print all MULTIPLICATION TABLES between 2 and 25.
+
+
++------------+
+| 15-11-2022 |
++------------+
+    =   Albetical Sorting
+        A               1
+        AA              11
+        AAA             100
+        B               2
+        BB              22
+        BBBB            2222
+        C               3
+        CCC             333
+
+    =   Numerical Sorting
+        A               1
+        B               2
+        C               3
+        AA              11
+        BB              22
+        AAA             100
+        CCC             333
+        BBBB            2222
+
+        "2"             2
+
++------------+
+| 16-11-2022 |
++------------+
+    =   What is DOM?
+        DOM stands for Document Object Model.
+        DOM is a tree like representation of the HTML script.
+        Every node within the DOM tree is an object. Please check the objects in the
+        JavaScript documentaiton.
+
+                                    HTML
+                                     |
+                        +------------+---------------+
+                        |                            |
+                       HEAD                        BODY
+                 +------+-------+             +------+-------+
+                 |      |       |             |      |       |
+               TITLE  SCRIPT  META            H1   TABLE     A
+                                                     |
+                                               +-----+------+
+                                               |     |      |
+                                              TR   TBODY   THEAD
+
+    =   What is FRAMESET element?
+        The FRAMESET element divides the screen into different rows and columns.
+
+        +----------------+--------------------------------------------+
+        | POLITICAL PART |                                            |
+        | = BJP          |                                            |
+        | = INC          |                                            |
+        | = AAP          |                                            |
+        |                |                                            |
+        |                |                                            |
+        |----------------|                                            |
+        | = Narendra Modi|                                            |
+        | = Amit Saha    |                                            |
+        | =              |                                            |
+        |                |                                            |
+        |                |                                            |
+        |                |                                            |
+        |                |                                            |
+        |                |                                            |
+        +----------------+--------------------------------------------+
+
++------------+
+| 17-11-2022 |
++------------+
+    =   Write a program in Javascript to revese a string?
+        Original text: Quick Brown Fox Jumps Over The Lazy Dog
+        Reverse text:  goD yzaL ehT revO spmuJ xoF nworB kciuQ
+
+    =   Write a program in Javascript to count the number of vowels in a given string?
+        Quick Brown Fox Jumps Over The Lazy Dog
+
+        var vowels = "AEIOUaeiou";
+
++------------+
+| 18-11-2022 |
++------------+
+    =   Write a program to count the number of vowels in a given string?
+    =   Write a program to count of number of occurances of each character within a string?
+    =   Reverse horizontally the content of a table?
+
+
++------------+
+| 21-11-2022 |
++------------+
+    =   Write a function that takes a list of strings an prints them, one per line, 
+        in a rectangular frame.
+        For example the list ["Hello", "World", "in", "a", "frame"] gets printed as:
+            *********
+            * Hello *
+            * World *
+            * in    *
+            * a     *
+            * frame *
+            *********
+
++------------+
+| 22-11-2022 |
++------------+
+    =   Extract "Abdul" from "A P J Abdul Kalam" using the appropriate 
+        javaScript string function.
+
+    =   Explore String object in detail.
+
++------------+
+| 23-11-2022 |
++------------+
+    =   Exploring methods in String object
+    =   Exploring methods in Date object
+    =   Installation of Cmder and NodeJS
+    =   Creating JavaScript development environment
