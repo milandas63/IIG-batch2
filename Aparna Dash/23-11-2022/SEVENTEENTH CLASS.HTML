@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script>
+            var name = "Charles Bobage";
+            document.writeln(name.charCodeAt(5) + "<br>");
+            var upper_name = "";
+            var each;
+            for(var i=0; i<name.length; i++) {
+                each = name.charCodeAt(i);
+                if(each>=65 && each<=90) {
+                    each = each+32;
+                } else if(each>=97 && each<=122) {
+                    each = each-32;
+                }
+                upper_name = upper_name+String.fromCharCode(each);
+            }
+            document.writeln("ORIGINAL: " + name + "<br>");
+            document.writeln("CHANGED:  " + upper_name + "<br>");
+            var president = "";
+            president = president.concat("A"," ","P"," ","J"," ","Abdul"," ","Kalam");
+            document.writeln(president.italics());
+        </script>
+    </body>
+</html>
