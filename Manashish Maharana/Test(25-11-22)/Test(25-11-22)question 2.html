@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>Reverse a Table</title>
+        <script>
+            function reverseTable() {
+                var tableObj = document.getElementById('table');
+                document.writeln("<table border='1' cellspacing='0' cellpadding='5'>");
+                document.writeln("<tr>");
+                   for(var row=0; row<tableObj.rows.length; row++) {
+                    document.writeln("</tr>");
+                    for(var col=tableObj.rows[row].cells.length-1; col>=0; col--) 
+                    {
+                        document.writeln("<td style='color:blue;'>"+tableObj.rows[row].cells[col].innerHTML+"</td>");
+                    }
+                    document.writeln("</tr>");
+                }
+                document.writeln("</table>");
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Reverse Table</h1>
+        <hr><br>
+        <table border="1" cellspacing="0" cellpadding="5" id="table">
+            <tr>
+                <td>Slno</td>
+                <td>Country</td>
+                <td>Capital</td>
+                <td>Currency</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Afghanistan</td>
+                <td>Kabul</td>
+                <td>Afghani</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Argentina</td>
+                <td>Buenos Aires</td>
+                <td>Peso</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Brazil</td>
+                <td>Brasilla</td>
+                <td>Real</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Canada</td>
+                <td>Ottawa</td>
+                <td>Dollar</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Denmark</td>
+                <td>Copenhagen</td>
+                <td>Danish Krone</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Guinea</td>
+                <td>Conakry</td>
+                <td>Franc</td>
+            </tr>
+        </table>
+        <br><br>
+        <input type="button" onclick="reverseTable();" value="Reverse Table" />
+        <br>
+    </body>
+</html>

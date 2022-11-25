@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Test Question 3</title>
+        <h1>Date Object</h1>
+    </head>
+    <body>
+        <script>
+            var today = new Date();
+            // Date style in dd-mm-yyyy
+            var dd = today.getDate();
+            var mm = today.getMonth() + 1;
+            var yyyy = today.getFullYear();
+            var HH = today.getHours();
+            var MM = today.getMinutes() + 1;
+            var date = dd + "/" + mm + "/" + yyyy;
+            var time = HH + ":" + MM + "AM";
+            document.writeln(date);
+            document.writeln(time);
+        </script>
+    </body>
+</html>
